@@ -1,0 +1,15 @@
+PASS: Enemigo sobre la malla de navegacion
+PASS: Patrulla: desplazamiento real por la casa
+PASS: Animacion: el esqueleto cambia de postura
+PASS: Ignora ruidos fuera de alcance
+PASS: Investiga la posicion de un ruido audible
+PASS: Vision: detecta al jugador a la vista
+PASS: Persigue al jugador con movimiento real (Chase, metros=1,55)
+PASS: Las paredes bloquean la vision
+PASS: Al perder al jugador busca su ultima posicion (Investigate)
+PASS: Primer golpe con collider y configuracion real: vida=75
+PASS: La prueba mantiene el controlador real del jugador
+PASS: Ataques repetidos reducen la vida y causan muerte
+PASS: La muerte detiene el juego y permite reintentar
+PASS: La pantalla de muerte esta visible en el Canvas superior
+PASS: Reintentar recarga la escena y restablece la vida

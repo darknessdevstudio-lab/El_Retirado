@@ -7,7 +7,7 @@ public class SwitchInteract : MonoBehaviour
     public AudioSource audioSource;
 
     [Header("Luces (1 a 4)")]
-    public Light[] lights; // puedes meter varias luces aquí
+    public Light[] lights; // puedes meter varias luces aquï¿½
 
     [Header("Sonidos")]
     public AudioClip soundOn;
@@ -18,8 +18,9 @@ public class SwitchInteract : MonoBehaviour
     public void Interact()
     {
         isOn = !isOn;
+        ElRetirado.Enemies.NoiseSystem.Emit(transform.position, 6f);
 
-        // Animación
+        // Animaciï¿½n
         if (animator != null)
             animator.SetBool("isOn", isOn);
 

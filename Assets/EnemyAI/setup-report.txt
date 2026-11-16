@@ -1,0 +1,14 @@
+OK
+Scene: Assets/Scenes/casa01.unity
+Backup: Assets/EnemyAI/Backup/casa01_antes_IA.unity
+Sources: 278
+NavMesh vertices: 2307
+Enemy spawn: (11.08, -0.20, -1.46)
+Player: (-0.86, 1.00, 4.76)
+Patrol points: 6
+Punto_1: (-1.75, -3.39, 19.74)
+Punto_2: (27.02, 3.02, -17.92)
+Punto_3: (-6.58, 3.02, -13.72)
+Punto_4: (28.00, -0.20, 7.91)
+Punto_5: (8.47, -0.20, 2.59)
+Punto_6: (-12.60, -3.39, 5.46)

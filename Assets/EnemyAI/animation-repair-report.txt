@@ -1,0 +1,9 @@
+Reposo mixamorig:Hips m_LocalPosition.x: original drift=0,000000, corrected drift=0,000000
+Reposo mixamorig:Hips m_LocalPosition.y: original drift=0,000000, corrected drift=0,000000
+Reposo mixamorig:Hips m_LocalPosition.z: original drift=0,000000, corrected drift=0,000000
+Caminar mixamorig:Hips m_LocalPosition.x: original drift=0,000000, corrected drift=0,000000
+Caminar mixamorig:Hips m_LocalPosition.y: original drift=-0,000001, corrected drift=0,000000
+Caminar mixamorig:Hips m_LocalPosition.z: original drift=0,038986, corrected drift=0,000000
+Correr mixamorig:Hips m_LocalPosition.x: original drift=0,000000, corrected drift=0,000000
+Correr mixamorig:Hips m_LocalPosition.y: original drift=0,000000, corrected drift=0,000000
+Correr mixamorig:Hips m_LocalPosition.z: original drift=0,056402, corrected drift=0,000000
